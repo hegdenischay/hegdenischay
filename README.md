@@ -1,4 +1,8 @@
 ### Hi there 👋
+### Currently working on:
+- Phoenix from exploit.exercises
+- Algorithms, 4th Edition
+
 
 <!--
 **hegdenischay/hegdenischay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
