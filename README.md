@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Currently working on:
-- Phoenix from exploit.exercises
-- Algorithms, 4th Edition
+- eBPF on Linux
+- Operating Systems, Design and Implementation (Chapter 1)
 
 ![](https://img.userbars.be/userbars/8/42106.gif)
 
