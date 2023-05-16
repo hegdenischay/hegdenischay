@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Currently working on:
 - eBPF on Linux
-- Operating Systems, Design and Implementation (Chapter 1)
+- Operating Systems, Design and Implementation (Chapter 3)
 
 ![](https://img.userbars.be/userbars/8/42106.gif)
 
