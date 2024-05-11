@@ -1,12 +1,13 @@
 ### Hi there 👋
 ### Currently working on:
 - eBPF on Linux
-- Operating Systems, Design and Implementation (Chapter 3)
+- Operating Systems, Design and Implementation
+- Matrix stuff that I really want to exist
 
 ![](https://img.userbars.be/userbars/8/42106.gif)
 
 ## Socials
-Matrix: @nischay:nischay.me
+Matrix: @nischay:intothematrix.in
 
 <!--
 **hegdenischay/hegdenischay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
