@@ -7,7 +7,7 @@
 ![](https://img.userbars.be/userbars/8/42106.gif)
 
 ## Socials
-Matrix: @nischay:intothematrix.in
+Matrix: @nischay:nischay.me
 
 <!--
 **hegdenischay/hegdenischay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
